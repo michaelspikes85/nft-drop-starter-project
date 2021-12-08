@@ -1,20 +1,58 @@
-# buildspace Solana NFT Drop Project
+# Loki's Offsprings NFT Minting
 
-### Welcome 👋
+#### Author: Michael Spikes
 
-To get started with this course, clone this repo and follow these commands:
+An app build on the Solana blockchain to mint Loki's Offsprings NFTs.
 
-1. cd into the `app` folder
-2. Run `npm install` at the root of your directory
-3. Run `npm run start` to start the project
-4. Start coding!
+# Table of Contents
 
-### What is the .vscode Folder?
+- [Loki's Offsprings NFT Minting](#lokis-offsprings-nft-minting)
+      - [Author: Michael Spikes](#author-michael-spikes)
+- [Table of Contents](#table-of-contents)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Technologies](#technologies)
+  - [Questions](#questions)
+    - [Picture](#picture)
+    - [Email](#email)
+  - [Contributors](#contributors)
+  - [License](#license)
 
-If you use VSCode to build your app, we included a list of suggested extensions that will help you build this project! Once you open this project in VSCode, you will see a popup asking if you want to download the recommended extensions :).
+## Installation
 
-### Questions?
+npm i for package.json.
+npm start to start server.
 
-Have some questions make sure you head over to your [buildspace Dashboard](https://app.buildspace.so/projects/CO77556be5-25e9-49dd-a799-91a2fc29520e) and link your Discord account so you can get access to helpful channels and your instructor!
+## Usage
 
-candy machine pubkey: BefQXCULpTBTmaccCwBz8NuDAy1qBKDu5gWYY4cN3S4Z
+N/A
+
+## Technologies
+
+React.js
+Solana
+Rust
+Web3
+Anchor
+Mocha
+
+## Questions
+
+Please email me with any questions.
+
+### Picture
+
+<img src="https://avatars1.githubusercontent.com/u/60369601?s=460&u=880237e4bc8760b2c928cd8e3d686f2103af3b7c&v=4">
+
+### Email
+
+michael.spikes85@gmail.com
+
+## Contributors
+
+N/A
+
+## License
+
+<img src="https://img.shields.io/github/license/michaelspikes85/Burger-Tracker?style=plastic">
+[![Netlify Status](https://api.netlify.com/api/v1/badges/018aaa0c-d718-4d88-bf0b-d64958042859/deploy-status)](https://app.netlify.com/sites/elastic-cori-71c9aa/deploys)
