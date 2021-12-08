@@ -1,0 +1,19 @@
+{
+  "name": "Loki's Offspring 6",
+  "symbol": "",
+  "image": "5.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "5.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "Biq1T9cdMS2WwJYkEzft5jBrcMCvukdqoyFXmphf58i2",
+        "share": 100
+      }
+    ]
+  }
+}
